@@ -31,7 +31,7 @@ Des tests paramétrés sont aussi présents dans la partie "test" permettant de 
 
 Remarque pour WorldService : La méthode "getDensestZones(...)" fut réalisée avec l'API Stream simplement pour exposer une manière alternative de coder dans le cadre de l'exercice, ceci, par rapport à l'usage d'un foreach pour la méthode "countPointsOfInterestWithinZone(...). 
   
-<b>resources</b> : Contient les fichiers CSV indiquant les informations relatives aux points d'intérêt à générer.
+<b>resources</b> : Contient les fichiers CSV indiquant les informations relatives aux points d'intérêt à générer. Des fichiers CSV comportant des erreurs sont fournis pour tester la levée de l'exception dans les situations adéquates.
     
 -------------------------------------------
  <b>Environnement</b>
